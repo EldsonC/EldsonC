@@ -3,7 +3,7 @@
 <div>
   <a href="https://beacons.ai/EldsonC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eldson&theme=radical&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldson&layout=compact&langs_count=16&theme=radical" >
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldson&layout=compact&langs_count=16&theme=radical" > -->
 </div>
 
 <div style="display: inline_block"><br>
