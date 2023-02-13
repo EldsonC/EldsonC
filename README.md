@@ -1,7 +1,5 @@
 # Eldson Caldas < Front-end />
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
 Olá a todos 🍟
 
 Desenvolvedor front end. Sou bom em resolver problemas e foi isso que me fez ser apaixonado pela programação, saber resolver e criar soluções que ajudem as pessoas no seu dia a dia, é o que me move, ver uma solução cumprindo seu dever é ótimo.
