@@ -2,7 +2,7 @@
 
 Olá a todos 🍟
 
-Desenvolvedor front end. Sou bom em resolver problemas e foi isso que me fez ser apaixonado pela programação, saber resolver e criar soluções que ajudem as pessoas no seu dia a dia, é o que me move, ver uma solução cumprindo seu dever é ótimo.
+Desenvolvedor full-stack. Sou bom em resolver problemas e foi isso que me fez ser apaixonado pela programação, saber resolver e criar soluções que ajudem as pessoas no seu dia a dia, é o que me move, ver uma solução cumprindo seu dever é ótimo.
 
 Esse é o meu desafio, tornar a vida de todos ao meu redor mais fácil atravéis da tecnologia, levando oportunidades a pequenos e grandes negócios.
 
