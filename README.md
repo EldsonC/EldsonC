@@ -9,14 +9,14 @@ I’m Eldson Caldas — a force of ambition, precision, and relentless execution
         <img 
             alt="GitHub Stars" 
             title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EldsonC?color=55960c&style=for-the-badge&labelColor=6415BA&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/EldsonC?color=6415BA&style=for-the-badge&labelColor=6415BA&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/EldsonC?tab=followers">
         <img 
             alt="GitHub Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EldsonC?color=236ad3&labelColor=#247D5&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EldsonC?color=247D5&labelColor=247D5&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
