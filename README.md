@@ -9,9 +9,7 @@
   
   </div>
   
-  ---
-  
-  ## `01` — Profile
+  ## About me
   
   Software Engineer focused on **Salesforce and modern software engineering**.
   
@@ -39,16 +37,6 @@
   Good software is not only about making things work.<br>
   It's about making them work well.
   </sub>
-  
-  </div>
-  
-  ---
-  
-  <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1C1C1C,50:111111,100:050505&section=footer" width="100%"/>
-  
-  <sub>© 2026 EldsonC</sub>
   
   </div>
 </div>
