@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; background-color: red;"> 
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:1C1C1C&section=header&text=ELDSON%20C&fontColor=F5F5F5&fontSize=42&fontAlignY=42&desc=SOFTWARE%20ENGINEER&descAlignY=62&descSize=13&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:1C1C1C&section=header&text=ELDSON%20CALDAS&fontColor=F5F5F5&fontSize=42&fontAlignY=42&desc=SOFTWARE%20ENGINEER&descAlignY=62&descSize=13&descColor=888888" width="100%"/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=650&lines=Building+with+purpose.;Solving+complex+problems.;Engineering+simple+solutions." />
   
